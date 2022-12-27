@@ -2,3 +2,8 @@ Texto de Master
 
 Buenas.
 Prueba de qué ocurre si modifico este archivo.
+
+Buenas de nuevo.
+Esta pull request no deberías aceptarla, de lo contrario, tu destino estará sellado.
+Tu vida se arruinará.
+Saludos!
