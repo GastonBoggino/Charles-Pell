@@ -2,3 +2,7 @@ Texto de Master
 
 Buenas.
 Prueba de qué ocurre si modifico este archivo.
+
+Prueba de PR con coautor: gastón B y tomás L.
+* Item 1
+* Otro item
